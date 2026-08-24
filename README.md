@@ -1,4 +1,4 @@
-# 🚀 Сквозная BI-система продаж и удержания клиентов для E-Commerce 
+# Сквозная BI-система продаж и удержания клиентов для E-Commerce 
 ## (E-Commerce Executive Overview & CRM Analytics: End-to-End BI Solution)
 
 [![BI Tool](https://img.shields.io/badge/BI_Tool-Yandex_DataLens-blue?style=for-the-badge&logo=yandex)](https://datalens.yandex.ru/)
