@@ -107,7 +107,7 @@ Prior to this solution, decision-makers relied on manual spreadsheet exports. Th
 ## 🇷🇺 Русская версия
 
 ### 🔗 Интерактивный дашборд и SQL-скрипты
-- 📊 **[Открыть интерактивный дашборд в Yandex DataLens](https://datalens.yandex.ru/)** *(Вставьте вашу публичную ссылку)*
+- 📊 **[Открыть интерактивный дашборд в Yandex DataLens](https://datalens.yandex/84jzmp8ptdiqr)** 
 - 🗄️ **SQL-скрипты витрин данных:**
   - [`01_data_cleaning.sql`](./sql/01_data_cleaning.sql) — Фильтрация транзакций и обработка аномалий.
   - [`02_cohort_retention.sql`](./sql/02_cohort_retention.sql) — Расчет помесячной матрицы удержания ($M_0 \dots M_6$).
